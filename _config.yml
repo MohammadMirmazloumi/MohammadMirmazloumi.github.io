@@ -3,4 +3,6 @@ logo: /assets/img/my_photo.jpg
 description: Remote Sensing and Geospatial
 email: mohammad.mazloumi697@gmail.com
 #show_downloads: true
+researchgate: https://www.researchgate.net/profile/YourProfile
 theme: jekyll-theme-minimal
+layout: custom
