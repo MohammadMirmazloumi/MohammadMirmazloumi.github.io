@@ -1,6 +1,6 @@
 # Remote Sensing and Geospatial Data Scientist
 
-#### Technical Skills: Earth Observation, GeoAI, Python, R, GEE, AgroTech, Cloud Computing
+#### Technical Skills: Earth Observation, GIS, Data Science, GeoAI, Python, R, GEE, AgroTech, Cloud Computing
 
 ## Education
 - PhD, Remote Sensing | Universitat Politècnica de Catalunya (UPC) (_January 2024_)
@@ -19,6 +19,9 @@
 - Toolboxes for ground deformation monitoring (C++, Python) by developing AI/ML pipelines
 - AI and big geo data for Continental land use/cover classification and Global soil moisture retrieval.
 
+**Surveying Engineer and Remote Sensing Researcher @ Rahsar (_February 2015 - October 2019_)**
+- Surveying and geomatics projects: GPS and Total stations
+- Wetlands classification, Soil moisture retrieval, Field works (soil surface parameters: ThetaProbe, Soil Panel)
 
 ## Projects
 ### High Resolution European Land Use and Cover Map (ELULC-10)
@@ -28,12 +31,14 @@ ELULC-10 used European Sentinel-1/-2 and Landsat-8 images, as well as the LUCAS 
 
 ![European Land Use and Cover Map at 10m spatial resolution](/assets/img/elulc10.png)
 
+
 ### Agricultural Drought Monitoring of Kenya
 [Website](https://www.admkenya.eu/)
 
 co-developing solutions for monitoring crop condition and cropping systems with Earth Observation (EO) data to derive evidence-based quantitative vegetation condition estimates with high spatial and temporal resolution.
 
 ![Agricultural Drought Monitoring of Kenya](/assets/img/admkenya.PNG)
+
 
 ### Early Warning Detection
 [Publication](https://doi.org/10.1007/s10064-023-03388-w)
@@ -42,6 +47,7 @@ A technical support to early warning detection tools of ground instabilities usi
 
 ![Early Warning Detection Tool - InSAR and AI](/assets/img/ewd.jpg)
 
+
 ### Global Soil Moisture Monitoring
 [Publication](https://doi.org/10.3390/rs14184624)
 
@@ -49,6 +55,21 @@ A comparative analysis of SMAP/Sentinel-1 soil moisture product and in situ meas
 
 ![Global Evaluation of SMAP/Sentinel-1 Soil Moisture Products](/assets/img/sm_global.png)
 
+
+### Ocean Water Quality Monitoring using Remote Sensing Techniques
+[Publication](https://doi.org/10.1016/j.marenvres.2022.105701)
+
+Remote Sensing offers significant opportunities for monitoring water quality in estuaries, coastal waterways, and the ocean. OWQ parameters monitored by RS systems and techniques: chlorophyll-a, colored dissolved organic matter, turbidity or total suspended matter/solid, dissolved organic carbon, Secchi disk depth, suspended sediment concentration, and sea surface temperature.
+
+![Ocean Water Quality Monitoring using Remote Sensing Techniques](/assets/img/ocean_wq.png)
+
 ## Talks & Lectures
+- IGARSS 2024: Enhancing Evapotranspiration Estimates by Integrating Sentinel-3 LST and Sentinel-2 Data Through Machine Learning-Based Downscaling - Athens, Greece | July 2024
+- EARSeL 2024: High Resolution Crop Condition and Drought Impact Mapping Using Sentinel-2 Imagery and Machine Learning - Manchester, UK | June 2024
+- User Workshop: Integrated Use of Multisource Remote Sensing Data for National Scale Agricultural Drought Monitoring in Kenya - Nairobi, Kenya | May 2024
+- User Webinar: Agricultural Drought Monitoring - April and September 2024
+- ISPRS 2022: InSAR time series and Deep Learning (CNN) - Nice, France | May 2022
+- Lectures: Fundamentals of Remote Sensing, Fundamentals of GIS, Applied Remote Sensing, Geodetic Surveying, Physical Geodesy, Satellite Geodesy - 2017 to 2019
+
 
 ## Publications
