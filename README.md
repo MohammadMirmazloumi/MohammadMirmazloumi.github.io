@@ -21,14 +21,14 @@
 
 
 ## Projects
-### ELULC-10
+### High Resolution European Land Use and Cover Map (ELULC-10)
 [Publication](https://doi.org/10.3390/rs14133041)
 
 ELULC-10 used European Sentinel-1/-2 and Landsat-8 images, as well as the LUCAS reference samples. More than 200 K and 300 K of in situ surveys and images, respectively, were employed as inputs in the Google Earth Engine (GEE) cloud computing platform to perform classification by an object-based segmentation algorithm and an Artificial Neural Network (ANN). A novel ANN-based data preparation was also presented to remove noisy reference samples from the LUCAS dataset.
 
 ![European Land Use and Cover Map at 10m spatial resolution](/assets/img/elulc10.png)
 
-### ADM-Kenya
+### Agricultural Drought Monitoring of Kenya
 [Website](https://www.admkenya.eu/)
 
 co-developing solutions for monitoring crop condition and cropping systems with Earth Observation (EO) data to derive evidence-based quantitative vegetation condition estimates with high spatial and temporal resolution.
@@ -43,6 +43,11 @@ A technical support to early warning detection tools of ground instabilities usi
 ![Early Warning Detection Tool - InSAR and AI](/assets/img/ewd.jpg)
 
 ### Global Soil Moisture Monitoring
+[Publication](https://doi.org/10.3390/rs14184624)
+
+A comparative analysis of SMAP/Sentinel-1 soil moisture product and in situ measurements, for the time period March 2015 to January 2022, from 35 dense and sparse SM networks and 561 stations distributed around the world. Examining the effects of land cover, vegetation fraction, water bodies, urban areas, soil characteristics, and seasonal climatic conditions on the performance of active–passive SMAP/Sentinel-1 in estimating the SM.
+
+![Global Evaluation of SMAP/Sentinel-1 Soil Moisture Products](/assets/img/sm_global.png)
 
 ## Talks & Lectures
 
