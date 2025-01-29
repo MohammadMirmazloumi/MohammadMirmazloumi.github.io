@@ -41,6 +41,8 @@ co-developing solutions for monitoring crop condition and cropping systems with 
 
 <img src="/assets/img/admkenya.PNG" alt="Agricultural Drought Monitoring of Kenya" width="500">
 
+<br><br>
+
 ### Early Warning Detection
 [Publication](https://doi.org/10.1007/s10064-023-03388-w)
 
@@ -48,12 +50,16 @@ A technical support to early warning detection tools of ground instabilities usi
 
 <img src="/assets/img/ewd.jpg" alt="Early Warning Detection Tool - InSAR and AI" width="500">
 
+<br><br>
+
 ### Global Soil Moisture Monitoring
 [Publication](https://doi.org/10.3390/rs14184624)
 
 A comparative analysis of SMAP/Sentinel-1 soil moisture product and in situ measurements, for the time period March 2015 to January 2022, from 35 dense and sparse SM networks and 561 stations distributed around the world. Examining the effects of land cover, vegetation fraction, water bodies, urban areas, soil characteristics, and seasonal climatic conditions on the performance of active–passive SMAP/Sentinel-1 in estimating the SM.
 
 <img src="/assets/img/sm_global.png" alt="Global Evaluation of SMAP/Sentinel-1 Soil Moisture Products" width="500">
+
+<br><br>
 
 ### Ocean Water Quality Monitoring using Remote Sensing Techniques
 [Publication](https://doi.org/10.1016/j.marenvres.2022.105701)
