@@ -24,7 +24,7 @@
 - Wetlands classification, Soil moisture retrieval, Field works (soil surface parameters: ThetaProbe, Soil Panel)
 
 ## Projects
-### <h3 style="font-size: 18px;">High Resolution European Land Use and Cover Map (ELULC-10)</h3>
+<h3 style="font-size: 18px;">High Resolution European Land Use and Cover Map (ELULC-10)</h3>
 [Publication](https://doi.org/10.3390/rs14133041)
 
 ELULC-10 used European Sentinel-1/-2 and Landsat-8 images, as well as the LUCAS reference samples. More than 200 K and 300 K of in situ surveys and images, respectively, were employed as inputs in the Google Earth Engine (GEE) cloud computing platform to perform classification by an object-based segmentation algorithm and an Artificial Neural Network (ANN). A novel ANN-based data preparation was also presented to remove noisy reference samples from the LUCAS dataset.
