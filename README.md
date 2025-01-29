@@ -33,6 +33,7 @@ ELULC-10 used European Sentinel-1/-2 and Landsat-8 images, as well as the LUCAS 
 </div>
 
 
+
 <img src="/assets/img/elulc10.png" alt="European Land Use and Cover Map at 10m spatial resolution" width="500">
 
 <br><br>
