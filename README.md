@@ -37,7 +37,7 @@ ELULC-10 used European Sentinel-1/-2 and Landsat-8 images, as well as the LUCAS 
 
 co-developing solutions for monitoring crop condition and cropping systems with Earth Observation (EO) data to derive evidence-based quantitative vegetation condition estimates with high spatial and temporal resolution.
 
-#![Agricultural Drought Monitoring of Kenya](/assets/img/admkenya.PNG)
+# ![Agricultural Drought Monitoring of Kenya](/assets/img/admkenya.PNG)
 <img src="/assets/img/admkenya.PNG" alt="Agricultural Drought Monitoring of Kenya" width="500">
 
 ### Early Warning Detection
