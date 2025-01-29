@@ -6,7 +6,7 @@
 - PhD, Remote Sensing | Universitat Politècnica de Catalunya (UPC) (_January 2024_)
 - M.Eng., Remote Sensing | K. N. Toosi University of Technology (_February 2015_)
 - B.Eng., Geomatics | University of Tabriz (_August 2012_)
-
+<br>
 ## Work Experience
 **Remote Sensing and Geospatial Data Scientist @ ZALF (_February 2023 - November 2024_)**
 - Drought monitoring, Land Use/Cover classification, Land surface temperature, Evaportranspiration, Crop type mapping, Climate impacts analysis 
