@@ -31,8 +31,10 @@ ELULC-10 used European Sentinel-1/-2 and Landsat-8 images, as well as the LUCAS 
 
 <img src="/assets/img/elulc10.png" alt="European Land Use and Cover Map at 10m spatial resolution" width="500">
 
+<br><br>
 
 ### Agricultural Drought Monitoring of Kenya
+
 [Website](https://www.admkenya.eu/)
 
 co-developing solutions for monitoring crop condition and cropping systems with Earth Observation (EO) data to derive evidence-based quantitative vegetation condition estimates with high spatial and temporal resolution.
