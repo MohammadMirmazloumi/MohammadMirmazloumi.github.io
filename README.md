@@ -11,11 +11,8 @@
 **Remote Sensing and Geospatial Data Scientist @ ZALF (_February 2023 - November 2024_)**
 <ul>
   <li>Drought monitoring, Land Use/Cover classification, Land surface temperature, Evaportranspiration, Crop type mapping, Climate impacts analysis</li>
-  <br>
   <li>Earth observation data analysis (Sentinel, ERA 5, Landsat, Planet, EnMAP) and Machine learning and Deep learning models implementation (RF, XGB, SVM, CNN, LSTM)</li>
-  <br>
   <li>Cloud computing and HPC implementation for monitoring environmental parameters (GEE, AWS, CDSE, SentinelHub, openEO)</li>
-  <br>
   <li>Geospatial analysis, ArcGIS, QGIS (GDAL, GeoPandas, rasterio, xarray)</li>
 </ul>
 
