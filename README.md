@@ -28,10 +28,9 @@
 
 [Publication](https://doi.org/10.3390/rs14133041)
 
-<p style="text-align: justify;">
+<div style="text-align: justify;">
 ELULC-10 used European Sentinel-1/-2 and Landsat-8 images, as well as the LUCAS reference samples. More than 200 K and 300 K of in situ surveys and images, respectively, were employed as inputs in the Google Earth Engine (GEE) cloud computing platform to perform classification by an object-based segmentation algorithm and an Artificial Neural Network (ANN). A novel ANN-based data preparation was also presented to remove noisy reference samples from the LUCAS dataset.
-</p>
-
+</div>
 
 <img src="/assets/img/elulc10.png" alt="European Land Use and Cover Map at 10m spatial resolution" width="500">
 
