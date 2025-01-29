@@ -37,7 +37,6 @@ ELULC-10 used European Sentinel-1/-2 and Landsat-8 images, as well as the LUCAS 
 
 co-developing solutions for monitoring crop condition and cropping systems with Earth Observation (EO) data to derive evidence-based quantitative vegetation condition estimates with high spatial and temporal resolution.
 
-# ![Agricultural Drought Monitoring of Kenya](/assets/img/admkenya.PNG)
 <img src="/assets/img/admkenya.PNG" alt="Agricultural Drought Monitoring of Kenya" width="500">
 
 ### Early Warning Detection
@@ -45,23 +44,21 @@ co-developing solutions for monitoring crop condition and cropping systems with 
 
 A technical support to early warning detection tools of ground instabilities using deep learning and InSAR time series that is capable of forecasting regions affected by potential collapses.
 
-![Early Warning Detection Tool - InSAR and AI](/assets/img/ewd.jpg)
-
+<img src="/assets/img/ewd.jpg" alt="Early Warning Detection Tool - InSAR and AI" width="500">
 
 ### Global Soil Moisture Monitoring
 [Publication](https://doi.org/10.3390/rs14184624)
 
 A comparative analysis of SMAP/Sentinel-1 soil moisture product and in situ measurements, for the time period March 2015 to January 2022, from 35 dense and sparse SM networks and 561 stations distributed around the world. Examining the effects of land cover, vegetation fraction, water bodies, urban areas, soil characteristics, and seasonal climatic conditions on the performance of active–passive SMAP/Sentinel-1 in estimating the SM.
 
-![Global Evaluation of SMAP/Sentinel-1 Soil Moisture Products](/assets/img/sm_global.png)
-
+<img src="/assets/img/sm_global.png" alt="Global Evaluation of SMAP/Sentinel-1 Soil Moisture Products" width="500">
 
 ### Ocean Water Quality Monitoring using Remote Sensing Techniques
 [Publication](https://doi.org/10.1016/j.marenvres.2022.105701)
 
 Remote Sensing offers significant opportunities for monitoring water quality in estuaries, coastal waterways, and the ocean. OWQ parameters monitored by RS systems and techniques: chlorophyll-a, colored dissolved organic matter, turbidity or total suspended matter/solid, dissolved organic carbon, Secchi disk depth, suspended sediment concentration, and sea surface temperature.
 
-![Ocean Water Quality Monitoring using Remote Sensing Techniques](/assets/img/ocean_wq.png)
+<img src="/assets/img/ocean_wq.png" alt="Ocean Water Quality Monitoring using Remote Sensing Techniques" width="500">
 
 ## Talks & Lectures
 - IGARSS 2024: Enhancing Evapotranspiration Estimates by Integrating Sentinel-3 LST and Sentinel-2 Data Through Machine Learning-Based Downscaling - Athens, Greece | July 2024
