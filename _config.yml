@@ -5,5 +5,10 @@ show_downloads: true
 # email: mohammad.mazloumi697@gmail.com
 # researchgate: https://www.researchgate.net/profile/S-Mohammad-Mirmazloumi?ev=hdr_xprf
 theme: jekyll-theme-minimal
-theme: null
-remote_theme: null
+defaults:
+  - scope:
+      path: ""
+      type: "README.md"
+    values:
+      layout: "custom_layout"
+
