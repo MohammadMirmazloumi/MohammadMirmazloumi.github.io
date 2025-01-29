@@ -3,9 +3,9 @@
 #### Technical Skills: Earth Observation, GIS, Data Science, GeoAI, Python, R, GEE, AgroTech, Cloud Computing
 
 ## Education
-- PhD, Remote Sensing | Universitat Politècnica de Catalunya (UPC) (_January 2024_)
-- M.Eng., Remote Sensing | K. N. Toosi University of Technology (_February 2015_)
-- B.Eng., Geomatics | University of Tabriz (_August 2012_)
+- PhD, Remote Sensing&nbsp;| Universitat Politècnica de Catalunya (UPC) (_January 2024_)
+- M.Eng., Remote Sensing&nbsp;| K. N. Toosi University of Technology (_February 2015_)
+- B.Eng., Geomatics&nbsp;| University of Tabriz (_August 2012_)
 <br><br>
 ## Work Experience
 **Remote Sensing and Geospatial Data Scientist @ ZALF (_February 2023 - November 2024_)**
