@@ -1,13 +1,19 @@
 title: Mohammad Mirmazloumi
-description: Remote Sensing and Geospatial
+# description: Remote Sensing and Geospatial
 # show_downloads: true
 email: mohammad.mazloumi697@gmail.com
-researchgate: https://www.researchgate.net/profile/S-Mohammad-Mirmazloumi?ev=hdr_xprf
 # theme: jekyll-theme-minimal
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: minimal light
+description: Remote Sensing and Geospatial.
+canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 google_scholar: https://scholar.google.com/citations?user=HYMdGjsAAAAJ&hl=en
 linkedin: https://www.linkedin.com/in/s-mohammad-mirmazloumi/
+researchgate: https://www.researchgate.net/profile/S-Mohammad-Mirmazloumi?ev=hdr_xprf
 
 avatar: /assets/img/my_photo.jpg
 
