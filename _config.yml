@@ -1,7 +1,6 @@
 title: Mohammad Mirmazloumi
-logo: /assets/img/my_photo.jpg
 description: Remote Sensing and Geospatial
-show_downloads: true
+# show_downloads: true
 email: mohammad.mazloumi697@gmail.com
 researchgate: https://www.researchgate.net/profile/S-Mohammad-Mirmazloumi?ev=hdr_xprf
 # theme: jekyll-theme-minimal
@@ -9,3 +8,18 @@ researchgate: https://www.researchgate.net/profile/S-Mohammad-Mirmazloumi?ev=hdr
 # Links 
 google_scholar: https://scholar.google.com/citations?user=HYMdGjsAAAAJ&hl=en
 linkedin: https://www.linkedin.com/in/s-mohammad-mirmazloumi/
+
+avatar: /assets/img/my_photo.jpg
+
+remote_theme: yaoyao-liu/minimal-light
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/
