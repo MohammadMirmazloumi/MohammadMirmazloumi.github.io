@@ -2,6 +2,10 @@ title: Mohammad Mirmazloumi
 logo: /assets/img/my_photo.jpg
 description: Remote Sensing and Geospatial
 show_downloads: true
-# email: mohammad.mazloumi697@gmail.com
-# researchgate: https://www.researchgate.net/profile/S-Mohammad-Mirmazloumi?ev=hdr_xprf
-theme: jekyll-theme-minimal
+email: mohammad.mazloumi697@gmail.com
+researchgate: https://www.researchgate.net/profile/S-Mohammad-Mirmazloumi?ev=hdr_xprf
+# theme: jekyll-theme-minimal
+
+# Links 
+google_scholar: https://scholar.google.com/citations?user=HYMdGjsAAAAJ&hl=en
+linkedin: https://www.linkedin.com/in/s-mohammad-mirmazloumi/
