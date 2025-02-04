@@ -3,9 +3,9 @@
 #### Technical Skills: Earth Observation, GIS, Data Science, GeoAI, Python, R, GEE, AgroTech, Cloud Computing
 
 ## Education
-- PhD, Remote&nbsp;Sensing&nbsp; | Universitat Politècnica de Catalunya (UPC) (_January 2024_)
-- M.Eng., Remote&nbsp;Sensing&nbsp; | K. N. Toosi University of Technology (_February 2015_)
-- B.Eng., Geomatics&nbsp; | University of Tabriz (_August 2012_)
+- PhD, Remote&nbsp;Sensing | Universitat Politècnica de Catalunya (UPC) (_January 2024_)
+- M.Eng., Remote&nbsp;Sensing | K. N. Toosi University of Technology (_February 2015_)
+- B.Eng., Geomatics | University of Tabriz (_August 2012_)
 <br><br>
 ## Work Experience
 **Remote Sensing and Geospatial Data Scientist @ ZALF (_February 2023 - November 2024_)**
@@ -88,3 +88,14 @@ Remote Sensing offers significant opportunities for monitoring water quality in 
 
 
 ## Publications
+- Mirmazloumi, S. M., Kakooei, M., Mohseni, F., Ghorbanian, A., Amani, M., Crosetto, M., Monserrat, O. (2022). “ELULC-10, a 10 m European Land Use and Land Cover Map Using Sentinel and Landsat Data in Google Earth Engine.” Remote Sensing, 14(13), 3041. https://doi.org/10.3390/rs14133041
+-	Mirmazloumi, S. M., Wassie, Y., Nava, L., Cuevas-González, M., Crosetto, M., & Monserrat, O. (2023). “InSAR time series and LSTM model to support early warning detection tools of ground instabilities: mining site case studies.” Bulletin of Engineering Geology and the Environment, 82(10), 374. https://doi.org/10.1007/s10064-023-03388-w
+-	Amani, M., Ghorbanian, A., Ahmadi, S.A., Kakooei, M., Moghimi, A., Mirmazloumi, S.M., … & Wu, Q., (2020). “Google earth engine cloud computing platform for remote sensing big data applications: A comprehensive review.” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. https://doi.org/10.1109/JSTARS.2020.3021052
+-	Mirmazloumi, S.M., Sahebi, M. R., Amani, M. (2021). “New empirical models for estimating bare soil surface parameters.” Int. J. of Remote Sensing 42, no. 5: 1928-1947. https://doi.org/10.1080/01431161.2020.1847353
+-	Mirmazloumi, S. M., Gambin, Á.F., Palamà, R., Crosetto, M., ... , Monserrat, O. (2022). “Supervised Machine Learning Algorithms for Ground Motion Time Series Classification from InSAR Data.” Remote Sensing, 14(15), 3821. https://doi.org/10.3390/rs14153821
+-	Mirmazloumi, S. M., Wassie, Y., Navarro, J. A., Palamà, ... & Monserrat, O.  (2022). “Classification of ground deformation using sentinel-1 persistent scatterer interferometry time series.” GIScience & Remote Sensing, 59(1), 374-392. https://doi.org/10.1080/15481603.2022.2030535
+-	Mirmazloumi, S. M., & Sahebi, M. R. (2016). “Assessment of Different Backscattering Models for Bare Soil Surface Parameters Estimation from SAR Data in band C, L and P.” European Journal of Remote Sensing, 49(1), 261-278. https://doi.org/10.5721/EuJRS20164915
+-	Mohseni, F., Mirmazloumi, S. M., Mokhtarzade, M., Jamali, S., & Homayouni, S. (2022). “Global evaluation of SMAP/Sentinel-1 soil moisture products.” Remote Sensing, 14(18), 4624. https://doi.org/10.3390/rs14184624
+-	Mirmazloumi, S. M., Moghimi, A., Ranjgar, B., ... & Brisco, B. (2021). “Status and trends of wetland studies in Canada using remote sensing technology with a focus on wetland classification: A bibliographic analysis.” Remote Sensing, 13(20), 4025. https://doi.org/10.3390/rs13204025
+-	Mehravar, S., Amani, M., Moghimi, A., ... & Mirmazloumi, S. M. (2021). “Temperature-Vegetation-soil Moisture-Precipitation Drought Index (TVMPDI); 21-year drought monitoring in Iran using satellite imagery within google Earth engine.” Advances in space research, 68(11), 4573-4593. https://doi.org/10.1016/j.asr.2021.08.041
+-	Gholamrezaie, H., Hasanlou, M., Amani, M., & Mirmazloumi, S. M. (2022). “Automatic mapping of burned areas using Landsat 8 time-series images in Google Earth engine: A case study from Iran.” Remote Sensing, 14(24), 6376. https://doi.org/10.3390/rs14246376
