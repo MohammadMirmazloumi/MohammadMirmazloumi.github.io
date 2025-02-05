@@ -58,7 +58,7 @@ Co-developing solutions for monitoring crop condition and cropping systems with 
 
 A technical support to early warning detection tools of ground instabilities using deep learning and InSAR time series that is capable of forecasting regions affected by potential collapses.
 
-<img src="/assets/img/ewd.jpg" alt="Early Warning Detection Tool - InSAR and AI" width="500">
+<img src="/assets/img/ewd.jpg" alt="Early Warning Detection Tool - InSAR and AI" width="400">
 
 <br><br>
 
@@ -67,7 +67,7 @@ A technical support to early warning detection tools of ground instabilities usi
 
 A comparative analysis of SMAP/Sentinel-1 soil moisture product and in situ measurements, for the time period March 2015 to January 2022, from 35 dense and sparse SM networks and 561 stations distributed around the world. Examining the effects of land cover, vegetation fraction, water bodies, urban areas, soil characteristics, and seasonal climatic conditions on the performance of active–passive SMAP/Sentinel-1 in estimating the SM.
 
-<img src="/assets/img/sm_global.png" alt="Global Evaluation of SMAP/Sentinel-1 Soil Moisture Products" width="500">
+<img src="/assets/img/sm_global.png" alt="Global Evaluation of SMAP/Sentinel-1 Soil Moisture Products" width="400">
 
 <br><br>
 
