@@ -76,7 +76,7 @@ A comparative analysis of SMAP/Sentinel-1 soil moisture product and in situ meas
 
 Remote Sensing offers significant opportunities for monitoring water quality in estuaries, coastal waterways, and the ocean. OWQ parameters monitored by RS systems and techniques: chlorophyll-a, colored dissolved organic matter, turbidity or total suspended matter/solid, dissolved organic carbon, Secchi disk depth, suspended sediment concentration, and sea surface temperature.
 
-<img src="/assets/img/ocean_wq.jpg" alt="Ocean Water Quality Monitoring using Remote Sensing Techniques" width="500">
+<img src="/assets/img/ocean_wq.jpg" alt="Ocean Water Quality Monitoring using Remote Sensing Techniques" width="300">
 
 ## Talks & Lectures
 - IGARSS 2024: Enhancing Evapotranspiration Estimates by Integrating Sentinel-3 LST and Sentinel-2 Data Through Machine Learning-Based Downscaling - Athens, Greece | July 2024
