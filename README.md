@@ -6,7 +6,7 @@
 - PhD, Remote&nbsp;Sensing | Universitat Politècnica de Catalunya (UPC) (_January 2024_)
 - M.Eng., Remote&nbsp;Sensing | K. N. Toosi University of Technology (_February 2015_)
 - B.Eng., Geomatics | University of Tabriz (_August 2012_)
-<br><br>
+
 ## Work Experience
 **Remote Sensing and Geospatial Data Scientist @ ZALF (_February 2023 - November 2024_)**
 <ul>
