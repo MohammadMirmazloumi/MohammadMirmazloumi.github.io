@@ -8,6 +8,15 @@
 - B.Eng., Geomatics | University of Tabriz (_August 2012_)
 
 ## Work Experience
+**Remote Sensing and Geospatial Data Scientist @ Formation Environmental (_March 2025 - Present_)**
+<ul>
+  <li>Consulting, Air Quality, Dust Emission Management, Water Extent Mapping, Bird Detection, Soil Mapping, Evaportranspiration</li>
+  <li>Hyperspectral, ASD, LiDAR & Satellite data processing and analysis for soil characterization monitoring, water assessment, plant phenology, and meteorology variables</li>
+  <li>Assessing Water quality issues, large-scale water transfers, groundwater-surface water interactions, and implementing workflows to calculate water demand to inform management plans</li>
+  <li>Cloud computing and HPC implementation for monitoring environmental parameters</li>
+  <li>Geospatial analysis, ArcGIS Pro, QGIS (GDAL, GeoPandas, rasterio, xarray)</li>
+</ul>
+
 **Remote Sensing and Geospatial Data Scientist @ ZALF (_February 2023 - November 2024_)**
 <ul>
   <li>Drought monitoring, Land Use/Cover classification, Land surface temperature, Evaportranspiration, Crop type mapping, Climate impacts analysis</li>
@@ -15,7 +24,6 @@
   <li>Cloud computing and HPC implementation for monitoring environmental parameters (GEE, AWS, CDSE, SentinelHub, openEO)</li>
   <li>Geospatial analysis, ArcGIS, QGIS (GDAL, GeoPandas, rasterio, xarray)</li>
 </ul>
-
 
 **Remote Sensing and Geospatial Data Engineer @ CTTC (_November 2019 - February 2023_)**
 - Natural hazards monitoring, geoscience, and ground displacements mapping 
