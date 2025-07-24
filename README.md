@@ -14,7 +14,7 @@
   <li>Hyperspectral, ASD, LiDAR & Satellite data processing and analysis for soil characterization monitoring, water assessment, plant phenology, and meteorology variables</li>
   <li>Assessing Water quality issues, large-scale water transfers, groundwater-surface water interactions, and implementing workflows to calculate water demand to inform management plans</li>
   <li>Cloud computing and HPC implementation for monitoring environmental parameters</li>
-  <li>Geospatial analysis, ArcGIS Pro, QGIS (GDAL, GeoPandas, rasterio, xarray)</li>
+  <li>Geospatial analysis, ArcGIS Pro, QGIS (GDAL, GeoPandas, rasterio, xarray), Google Earth Engine</li>
 </ul>
 
 **Remote Sensing and Geospatial Data Scientist @ ZALF (_February 2023 - November 2024_)**
