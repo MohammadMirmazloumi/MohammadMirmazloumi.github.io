@@ -51,13 +51,14 @@ ELULC-10 used European Sentinel-1/-2 and Landsat-8 images, as well as the LUCAS 
 
 <br><br>
 
-### Agricultural Drought Monitoring of Kenya
+### Agricultural Drought Monitoring of Kenya, High Resolution Evapotranspiration
 
 [Website](https://www.admkenya.eu/)
 
 Co-developing solutions for monitoring crop condition and cropping systems with Earth Observation (EO) data to derive evidence-based quantitative vegetation condition estimates with high spatial and temporal resolution.
+High spatial and temporal Evapotranspiration estimation using Sentinel and Climate Data.
 
-<img src="/assets/img/admkenya.PNG" alt="Agricultural Drought Monitoring of Kenya" width="500">
+<img src="/assets/img/admkenya.PNG" alt="Agricultural Drought Monitoring of Kenya" width="500">   <img src="/assets/img/ET_github.jpg" alt="High spatial and temporal Evapotranspiration of Kenya" width="500">
 
 <br><br>
 
