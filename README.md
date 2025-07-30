@@ -2,11 +2,11 @@
 
 #### Application Domain: Environmental Monitoring; Consulting; Agricultural Applications; Hazard Assessment
 #### Remote Sensing
-<li>Satellite Data Processing; SAR , Optics, & Hyperspectral Analysis; LiDAR Processing; Climate Data
+- Satellite Data Processing; SAR , Optics, & Hyperspectral Analysis; LiDAR Processing; Climate Data
 #### Data Science
-<li>Machine Learning; Deep Learning; Big Data; Time Series; Statistical Analysis; Python; C++
+- Machine Learning; Deep Learning; Big Data; Time Series; Statistical Analysis; Python; C++
 #### Geospatial & GIS
-<li>ArcGIS Pro, QGIS; Spatial Analysis; Cloud Platforms (GEE, AWS, openEO); Database Management; Visualization
+- ArcGIS Pro, QGIS; Spatial Analysis; Cloud Platforms (GEE, AWS, openEO); Database Management; Visualization
 #### Technical Skills: Earth Observation, GIS, Data Science, GeoAI, Python, R, GEE, AgroTech, Cloud Computing
 
 ## Education
