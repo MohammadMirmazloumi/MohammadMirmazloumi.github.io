@@ -1,10 +1,13 @@
 # Remote Sensing and Geospatial Data Scientist
 
-#### Technical Skills: Earth Observation, GIS, Data Science, GeoAI, Python, R, GEE, AgroTech, Cloud Computing
-### Remote Sensing
+#### Application Domain: Environmental Monitoring; Consulting; Agricultural Applications; Hazard Assessment
+#### Remote Sensing
 Satellite Data Processing; SAR , Optics, & Hyperspectral Analysis; LiDAR Processing; Climate Data
-### Data Science:
-### Geospatial & GIS:
+#### Data Science
+Machine Learning; Deep Learning; Big Data; Time Series; Statistical Analysis; Python; C++
+#### Geospatial & GIS
+ArcGIS Pro, QGIS; Spatial Analysis; Cloud Platforms (GEE, AWS, openEO); Database Management; Visualization
+#### Technical Skills: Earth Observation, GIS, Data Science, GeoAI, Python, R, GEE, AgroTech, Cloud Computing
 
 ## Education
 - PhD, Remote&nbsp;Sensing | Universitat Politècnica de Catalunya (UPC) (_January 2024_)
