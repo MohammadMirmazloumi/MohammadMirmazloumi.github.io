@@ -6,7 +6,7 @@
 #### Data Science
 - Machine Learning; Deep Learning; Big Data; Time Series; Statistical Analysis; Python; C++
 #### Geospatial & GIS
-- ArcGIS Pro, QGIS; Spatial Analysis; Cloud Platforms (GEE, AWS, openEO); Database Management; Visualization
+- ArcGIS Pro, QGIS; Spatial Analysis (Python & R); Cloud Platforms (GEE, AWS, openEO); Database Management; Visualization
 #### Technical Skills: Earth Observation, GIS, Data Science, GeoAI, Python, R, GEE, AgroTech, Cloud Computing
 
 ## Education
